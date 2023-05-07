@@ -40,6 +40,7 @@
     "react-select": "^5.7.3",
     "react-slick": "^0.29.0",
     "react-tilty": "^2.0.3",
+    "react-toastify": "^7.0.4",
     "web-vitals": "^2.1.2"
   },
   "scripts": {
